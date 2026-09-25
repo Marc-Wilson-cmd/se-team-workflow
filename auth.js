@@ -1,4 +1,4 @@
 function authenticateUser() {
-    console.log("Refactored token-based authentication logic");
+    console.log("Consolidated authentication with token support");
     return { status: 200, token: "jwt-token-xyz" };
 }
